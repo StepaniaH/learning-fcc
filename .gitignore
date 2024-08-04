@@ -1,0 +1,10 @@
+.DS_Store/
+.git/
+bin/
+etc/
+lib/
+include/
+share/
+pyvenv.cfg
+__pycache__/
+.pytest_cache/
